@@ -13,3 +13,6 @@ I've used <strong>Firebase</strong> for BackEnd, even tho I don't really do Back
 <li>The search symbol is for filtering through data by Name, Purpose, month or day and month. The filters can be combined expect the last two, they can't be used together at the same time.</li>
 </ul>
 <h5>Note:</h5> This is not the final version</br>
+
+![fin](https://user-images.githubusercontent.com/47828314/64884547-48524100-d662-11e9-8576-6bb5d086369a.jpg)
+
