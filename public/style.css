@@ -1,0 +1,26 @@
+body{
+      overflow-x: hidden;
+      width: 100vw;
+    }
+input:focus{
+border-bottom: 1px solid #64b5f6;
+}
+
+.izlogujse{
+ 	margin-right: 40px;
+ }
+#pocetna{
+  margin-left:60px;
+}
+@media (max-width: 650px) {
+ #modal-login{
+  width: 100vw;
+  margin-left: 0px;
+ }
+ .izlogujse{
+ 	margin-right: 0px;
+ }
+  #circle{
+  	margin-left: 2px;
+  }
+}
